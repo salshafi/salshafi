@@ -44,7 +44,7 @@ I'm a 2nd-semester Software Engineering Technology (AI) student at Centennial Co
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=salshafi&show_icons=true&theme=default" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=salshafi&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
 </p>
 
 ### 📫 Reach Me
@@ -54,4 +54,3 @@ I'm a 2nd-semester Software Engineering Technology (AI) student at Centennial Co
 ---
 
 <p align="center"><i>Currently learning: Machine Learning fundamentals</i></p>
-
