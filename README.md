@@ -1,4 +1,15 @@
-## Hi there 👋
+### Hi, I'm Salman 👋
+
+🎓 Software Engineering Technology (AI) student at Centennial College
+🎯 Building toward a career in ML/AI engineering
+🛠️ Currently learning: SQL, NumPy, Pandas, scikit-learn, Git branching
+
+**Featured projects**
+- 🔗 [Iris KNN Classifier](link) — scikit-learn classification model
+- 🔗 [Data Analysis Project](link) — Pandas/Matplotlib exploratory analysis
+
+📫 Reach me: [Salman Shafi on LinkedIn]
+
 
 <!--
 **salshafi/salshafi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
