@@ -1,35 +1,34 @@
 <h1 align="center">Hi, I'm Salman Shafi 👋</h1>
 <h3 align="center">Software Engineering Technology (AI) Student @ Centennial College</h3>
+
 <p align="center">
   <a href="https://github.com/salshafi">
     <img src="https://img.shields.io/badge/GitHub-salshafi-181717?style=flat&logo=github" />
   </a>
 </p>
 
-🧭 About Me
+---
 
-I'm a 2nd-semester Software Engineering Technology (AI) student at Centennial College, currently working across C#, JavaScript, and Unix/Linux. I'm methodical about how I learn — I fully understand one concept before moving to the next, and I care about why code works, not just that it works. I'm building my software engineering foundations now while working toward a career in ML/AI engineering.
+### 🧭 About Me
 
-🎓 Coursework
+I'm a 2nd-semester Software Engineering Technology (AI) student at Centennial College, currently working across C#, JavaScript, and Unix/Linux. I'm methodical about how I learn — I fully understand one concept before moving to the next, and I care about *why* code works, not just that it works. I'm building my software engineering foundations now while working toward a career in ML/AI engineering.
 
+### 🎓 Coursework
 
-Semester 1: Python · HTML/CSS · Software Fundamentals · Communications 1
-Semester 2: C# (OOP) · JavaScript/HTML/CSS · Unix/Linux Shell Scripting
-Self-taught: Databases (SQL)
+- **Semester 1:** Python · HTML/CSS · Software Fundamentals · Communications 1
+- **Semester 2:** C# (OOP) · JavaScript/HTML/CSS · Unix/Linux Shell Scripting
+- **Self-taught:** Databases (SQL)
 
+### 🛠️ Currently Learning
 
-🛠️ Currently Learning
+`SQL` · `NumPy` · `Pandas` · `scikit-learn` · `Git branching`
 
-SQL · NumPy · Pandas · scikit-learn · Git branching
+### 📌 Featured Projects
 
-📌 Featured Projects
+- 🔗 [GradeTracker](link) — Full-stack academic tracking system spanning C# (business logic), a database layer, JavaScript front-end, and a Linux deployment environment
+- 🔗 [Restaurant Website](link) — 7-page multi-page site with a dynamic order system, extended with full form validation across 9 fields (name, email, address, age, postal code, city, province, password/confirm)
 
-
-🔗 Iris KNN Classifier — scikit-learn classification model
-🔗 Data Analysis Project — Pandas/Matplotlib exploratory analysis
-
-
-🧰 Tech Stack
+### 🧰 Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
@@ -41,15 +40,18 @@ SQL · NumPy · Pandas · scikit-learn · Git branching
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
-📈 GitHub Stats
+
+### 📈 GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=salshafi&show_icons=true&theme=default" height="165"/>
 </p>
-📫 Reach Me
 
-LinkedIn
+### 📫 Reach Me
 
+[LinkedIn](link)
+
+---
 
 <p align="center"><i>Currently learning: Machine Learning fundamentals</i></p>
 
