@@ -1,14 +1,55 @@
-### Hi, I'm Salman 👋
+<h1 align="center">Hi, I'm Salman Shafi 👋</h1>
+<h3 align="center">Software Engineering Technology (AI) Student @ Centennial College</h3>
+<p align="center">
+  <a href="https://github.com/salshafi">
+    <img src="https://img.shields.io/badge/GitHub-salshafi-181717?style=flat&logo=github" />
+  </a>
+</p>
 
-🎓 Software Engineering Technology (AI) student at Centennial College
+🧭 About Me
 
-🎯 Building toward a career in ML/AI engineering
+I'm a 2nd-semester Software Engineering Technology (AI) student at Centennial College, currently working across C#, JavaScript, and Unix/Linux. I'm methodical about how I learn — I fully understand one concept before moving to the next, and I care about why code works, not just that it works. I'm building my software engineering foundations now while working toward a career in ML/AI engineering.
 
-🛠️ Currently learning: SQL, NumPy, Pandas, scikit-learn, Git branching
+🎓 Coursework
 
-**Featured projects**
-- 🔗 [Iris KNN Classifier](link) — scikit-learn classification model
-- 🔗 [Data Analysis Project](link) — Pandas/Matplotlib exploratory analysis
 
-📫 Reach me: [Salman Shafi on LinkedIn](link)
+Semester 1: Python · HTML/CSS · Software Fundamentals · Communications 1
+Semester 2: C# (OOP) · JavaScript/HTML/CSS · Unix/Linux Shell Scripting
+Self-taught: Databases (SQL)
+
+
+🛠️ Currently Learning
+
+SQL · NumPy · Pandas · scikit-learn · Git branching
+
+📌 Featured Projects
+
+
+🔗 Iris KNN Classifier — scikit-learn classification model
+🔗 Data Analysis Project — Pandas/Matplotlib exploratory analysis
+
+
+🧰 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+</p>
+📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=salshafi&show_icons=true&theme=default" height="165"/>
+</p>
+📫 Reach Me
+
+LinkedIn
+
+
+<p align="center"><i>Currently learning: Machine Learning fundamentals</i></p>
 
