@@ -41,12 +41,6 @@ I'm a 2nd-semester Software Engineering Technology (AI) student at Centennial Co
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=salshafi&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
-</p>
-
 ### 📫 Reach Me
 
 [LinkedIn](link)
