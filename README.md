@@ -11,7 +11,7 @@
 
 ### 🧭 About Me
 
-I'm a 2nd-semester Software Engineering Technology (AI) student at Centennial College, currently working across C#, JavaScript, and Unix/Linux. I'm methodical about how I learn — I fully understand one concept before moving to the next, and I care about *why* code works, not just that it works. I'm building my software engineering foundations now while working toward a career in ML/AI engineering.
+I'm a Software Engineering Technology student at Centennial College, working across C#, JavaScript, Python, and Linux/Bash. I care about understanding why code works, not just that it does. Currently building toward full-stack development, systems programming, and AI/ML — open to co-op roles across all three.
 
 ### 🎓 Coursework
 
