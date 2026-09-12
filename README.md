@@ -21,9 +21,6 @@
 - **Semester 2:** C# (OOP) · JavaScript/HTML/CSS · Unix/Linux Shell Scripting
 - **Self-taught:** Databases (SQL)
 
-### 🛠️ Currently Learning
-
-`SQL` · `NumPy` · `Pandas` · `scikit-learn` · `Git branching`
 
 ### 📌 Featured Projects
 
