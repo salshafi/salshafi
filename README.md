@@ -9,9 +9,11 @@
 
 ---
 
-### 🧭 About Me
+### 🚀 Core Engineering Focus
+* **Data Engineering & Analysis:** Advanced SQL, Pandas, NumPy
+* **Machine Learning Pipelines:** Scikit-Learn (regression, classification models)
+* **Systems Infrastructure:** Linux/Bash automation & Git workflow architectures
 
-I'm a Software Engineering Technology student at Centennial College, working across C#, JavaScript, Python, and Linux/Bash. I care about understanding why code works, not just that it does. Currently building toward full-stack development, systems programming, and AI/ML — open to co-op roles across all three.
 
 ### 🎓 Coursework
 
