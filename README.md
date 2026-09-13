@@ -15,12 +15,6 @@
 * **Systems Infrastructure:** Linux/Bash automation & Git workflow architectures
 
 
-### 🎓 Coursework
-
-- **Semester 1:** Python · HTML/CSS · Software Fundamentals · Communications 1
-- **Semester 2:** C# (OOP) · JavaScript/HTML/CSS · Unix/Linux Shell Scripting
-- **Self-taught:** Databases (SQL)
-
 
 ### 📌 Featured Projects
 
