@@ -1,50 +1,23 @@
-<h1 align="center">Hi, I'm Salman Shafi 👋</h1>
-<h3 align="center">Software Engineering Technology (AI) Student @ Centennial College</h3>
+# Hi, I'm Salman Shafi 👋
+Software Engineering Technology (AI) Student @ Centennial College
+Building toward ML/AI engineering | linkedin.com/in/salmanshafi44
 
-<p align="center">
-  <a href="https://github.com/salshafi">
-    <img src="https://img.shields.io/badge/GitHub-salshafi-181717?style=flat&logo=github" />
-  </a>
-</p>
+## 🤖 AI/ML
+*(in progress — COMP237 algorithms repo + ML microservice coming this term)*
 
----
+## 💻 Full-Stack Development
+- **GradeTrackerApi** — Full-stack academic tracking system: C# (business logic/API),
+  SQL database layer, JavaScript front-end, deployed on Linux
+- **job-tracker-api** — FastAPI-based Job Application Tracker, built to practice
+  Python backend/API design
 
-### 🚀 Core Engineering Focus
-* **Data Engineering & Analysis:** Advanced SQL, Pandas, NumPy
-* **Machine Learning Pipelines:** Scikit-Learn (regression, classification models)
-* **Systems Infrastructure:** Linux/Bash automation & Git workflow architectures
-
-## 📁 Semester 02: Linux Systems & Shell Scripting Architecture
-
-This directory houses a comprehensive production archive of systems automation scripts, kernel metric parsers, and environment configuration tools developed during my summer engineering block.
-
-### 📈 System Monitor & Infrastructure Automation (Project I)
-* **Objective:** Engineered a continuous background Bash utility designed to automate server infrastructure health tracking.
-* **Core Functions:** 
-  * Parses live kernel metrics, CPU load percentages, and storage capacities.
-  * Automates directory log tracking and structures daily system snapshots.
-  * Executes security flags and triggers alerts when resource thresholds are breached.
-* **Key Skills Highlighted:** Linux Stream Redirection (`2>`), String Parsing (`awk`/`sed`), POSIX Shell Environment Control.
-
-### 🔐 Role-Based Access Control Deployed System (Project II)
-* **Objective:** Designed an enterprise-ready account provisioning system script to standardize developer environments.
-* **Core Functions:**
-  * Automates the bulk creation, formatting, and scaling of user accounts via external data inputs.
-  * Standardizes group security protocols using advanced POSIX file permissions and access masks.
-  * Implements modular error-logging infrastructure to track configuration anomalies.
-* **Key Skills Highlighted:** Loop Abstractions (`for`/`while`), Multi-branch Conditional Logic, Robust File Management.
-
-### 📊 Practical Core Systems Labs (Labs 01 - 10)
-* **Labs 1 - 3:** Advanced directory mapping, pipeline chaining (`|`), input/output stream management, and pattern searching using `grep`.
-* **Labs 4 - 6:** Script automation architectures leveraging arguments (`$1`, `$2`), custom functions, and interactive runtime arrays.
-* **Labs 7 - 10:** Process scheduling automation (`cron`), background signal intercept tracking, and automated deployment maintenance pipelines.
-
-
-
-### 📌 Featured Projects
-
-- 🔗 [GradeTracker](link) — Full-stack academic tracking system spanning C# (business logic), a database layer, JavaScript front-end, and a Linux deployment environment
-- 🔗 [Restaurant Website](link) — 7-page multi-page site with a dynamic order system, extended with full form validation across 9 fields (name, email, address, age, postal code, city, province, password/confirm)
+## 📊 Data Engineering & Analytics
+- **SELFSTUDY-NumPy-Pandas** — Self-study data analysis work (add 1-line description
+  of what dataset/problem once you write its README)
+- **System Monitor & Infrastructure Automation** — Bash utility for live server
+  health tracking (kernel metrics, CPU load, storage, logging)
+- **Role-Based Access Control System** — Enterprise-style account provisioning
+  script with POSIX permission standardization
 
 ### 🧰 Tech Stack
 
@@ -61,7 +34,7 @@ This directory houses a comprehensive production archive of systems automation s
 
 ### 📫 Reach Me
 
-[LinkedIn](link)
+[LinkedIn](https://linkedin.com/in/salmanshafi44)
 
 ---
 
