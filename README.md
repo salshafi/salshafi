@@ -4,20 +4,56 @@ Building toward ML/AI engineering | linkedin.com/in/salmanshafi44
 
 ## 🤖 AI/ML
 *(in progress — COMP237 algorithms repo + ML microservice coming this term)*
+# AI-Powered Full-Stack Support & Engagement Engine
 
-## 💻 Full-Stack Development
-- **GradeTrackerApi** — Full-stack academic tracking system: C# (business logic/API),
-  SQL database layer, JavaScript front-end, deployed on Linux
-- **job-tracker-api** — FastAPI-based Job Application Tracker, built to practice
-  Python backend/API design
+A modern **MERN-stack** application that combines a scalable React frontend, an Express/Node backend, and an intelligent chatbot layer utilizing **WebSockets** and **Large Language Models (LLMs)**.
 
-## 📊 Data Engineering & Analytics
-- **SELFSTUDY-NumPy-Pandas** — Self-study data analysis work (add 1-line description
-  of what dataset/problem once you write its README)
-- **System Monitor & Infrastructure Automation** — Bash utility for live server
-  health tracking (kernel metrics, CPU load, storage, logging)
-- **Role-Based Access Control System** — Enterprise-style account provisioning
-  script with POSIX permission standardization
+## 🚀 Key Architectural Features
+*   **Reactive UI:** Engineered with React.js using hooks (`useState`, `useEffect`) and reusable UI components.
+*   **Secure API Layer:** State-driven Node.js REST API with JWT authentication and custom route protection middleware.
+*   **Asynchronous AI Chatbot:** Full two-way real-time communication pipeline powered by WebSockets (`socket.io`).
+*   **Data Integrity:** Scalable non-relational document indexing using MongoDB and Mongoose validation schemas.
+
+## 📁 System Architecture
+```text
+├── backend/
+│   ├── config/          # MongoDB & Mongoose initializations
+│   ├── controllers/     # MVC controller route handler logic
+│   ├── middleware/      # JWT authentication & 2FA filters
+│   ├── models/          # Data schema definitions
+│   └── server.js        # Node entry point & WebSocket sockets
+└── frontend/
+    ├── src/
+    │   ├── components/  # Modular presentation components
+    │   ├── hooks/       # Custom API connection modules
+    │   └── App.jsx      # React Router declarations
+```
+
+## 🛠️ Local Environment Deployment
+
+### Prerequisites
+* Node.js (v18+)
+* MongoDB Local Instance or Atlas URI
+
+### Installation Setup
+1. Clone the project code:
+   ```bash
+   git clone https://github.com
+   cd your-repo-name
+   ```
+2. Spin up the backend API gateway:
+   ```bash
+   cd backend
+   npm install
+   npm start
+   ```
+3. Initialize the frontend development server:
+   ```bash
+   cd ../frontend
+   npm install
+   npm run dev
+   ```
+
 
 ### 🧰 Tech Stack
 
