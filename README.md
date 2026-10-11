@@ -1,52 +1,50 @@
 # Hi, I'm Salman Shafi 👋
-Software Engineering Technology (AI) Student @ Centennial College
-Building toward ML/AI engineering | linkedin.com/in/salmanshafi44
 
-### 🎯 Actively Seeking a Winter 2027 Co-op Placement (Software Engineering / AI)
-**Available for 100% Remote Roles Across Ontario & Canada**  
+**Software Engineering Technology (AI) Student @ Centennial College**
+Building toward ML/AI engineering
 
-🔗 **[Connect on LinkedIn](https://linkedin.com/in/salmanshafi44)** | ✉️ **[salshafi44@email.com](email@email.com)**
+**Seeking a Winter 2027 Co-op Placement** (Software Engineering / AI) · Open to remote roles across Ontario and Canada
 
----
-
-## 🛠️ Tech Stack & Ecosystem
-
-*   **Languages:** C# | Java | Python | JavaScript (ES6+) | SQL
-*   **Full-Stack & Distributed Systems:** React.js | Node.js | Express.js | MongoDB | Socket.io
-*   **Systems & Automation Infrastructure:** Linux / Unix | Git & GitHub Version Control
+[LinkedIn](https://www.linkedin.com/in/salman-shafi-6084a5243) · [Email](mailto:salshafi.dev@gmail.com)
 
 ---
 
-## 🚀 Core Portfolio Projects
+## Tech Stack
 
-### 🌐 1. Full-Stack & AI Web Applications
-| **Targeting Industry Roles:** Full-Stack Developer, Web Application Intern, Client-Server Architect
-*   **Project Showcase:** [AI-Powered Support & Engagement Engine](https://github.com)
-*   **Technologies Deployed:** React.js (Hooks, React Router), Node.js, Express.js, MongoDB, Mongoose Schemas, Socket.io, JSON Web Tokens (JWT).
-*   **Engineering Depth:** Formulated a reactive web interface that uses a persistent real-time socket layer to deliver low-latency bidirectional chat streaming, completely bypassing slow HTTP intervals.
-*   **System Highlights:** Implemented structured MVC API paths, token security authorization protocols, server state cache verification tools, and robust schema data filtering workflows.
-
-### 🦫 2. Enterprise Desktop & Logic Services
-| **Targeting Industry Roles:** Software Developer, Systems Engineer, Java/C# Enterprise Engineer
-*   **Project Showcase:** [Data-Driven Desktop Transaction Engine](https://github.com)
-*   **Technologies Deployed:** Advanced Java SE Platform, C#, Relational JDBC Connections, JavaFX UI Engine, Multi-threading & Concurrency Frameworks.
-*   **Engineering Depth:** Engineered an explicit desktop application using strict Object-Oriented Design patterns (class abstractions, type interfaces, functional inheritance, polymorphism).
-*   **System Highlights:** Developed relational database queries bound via JDBC `PreparedStatement` properties to protect against SQL injections. Built robust multithreading data manipulation algorithms using collections to maintain UI performance under heavy backend processing.
-
-### 🤖 3. Statistical Analysis & AI Sandbox Pipelines
-| **Targeting Industry Roles:** Data Analyst, Junior AI Associate, Machine Learning Intern
-*   **Project Showcase:** [Algorithmic Search & Predictive Analytics Pipeline](https://github.com)
-
-
-*   **Technologies Deployed:** Python Core, Pandas Dataframes, NumPy Multi-arrays, Scikit-Learn Engines, Applied Linear Algebra & Statistics Matrices.
-*   **Engineering Depth:** Built a structured analytical engine that extracts tabular dataset information, runs advanced vector matrix conversions, and manages complex machine learning data workflows.
-*   **System Highlights:** Designed functional search path scripts (DFS, BFS, Uniform Cost, and A* variants). Applied matrix transformations, Gaussian elimination methods, and data filtering tools to clean messy dataset collections, track model regressions, and display accuracy confusion matrices.
+- **Languages:** C#, Java, Python, JavaScript (ES6+), SQL
+- **Full-Stack:** React.js, Node.js, Express.js, MongoDB, Socket.io
+- **Tools & Systems:** Linux/Unix, Git, GitHub
 
 ---
 
-### 📬 Reach Me
-*   **LinkedIn:** [Connect on LinkedIn](https://linkedin.com)
-*   **Email:** [salshafi44@email.com](mailto:salshafi44@email.com)
+## Featured Projects
 
-*Currently learning: Advanced Machine Learning and Systems Automation Fundamentals*
+### 1. Full-Stack & AI Web Applications
+*Target roles: Full-Stack Developer, Web Application Intern*
 
+- **Project:** [AI-Powered Support & Engagement Engine](REPLACE_WITH_REPO_URL)
+- **Stack:** React.js (Hooks, React Router), Node.js, Express.js, MongoDB/Mongoose, Socket.io, JWT
+- **What I built:** A real-time chat interface using persistent WebSocket connections for low-latency, bidirectional messaging instead of HTTP polling.
+- **Highlights:** MVC-structured REST API, JWT-based authentication and authorization, server-side caching, and schema-level data validation.
+
+### 2. Enterprise Desktop & Logic Services
+*Target roles: Software Developer, Java/C# Developer*
+
+- **Project:** [Data-Driven Desktop Transaction Engine](REPLACE_WITH_REPO_URL)
+- **Stack:** Java SE, C#, JDBC, JavaFX, multithreading and concurrency
+- **What I built:** A desktop application designed around object-oriented principles: abstraction, interfaces, inheritance, and polymorphism.
+- **Highlights:** JDBC `PreparedStatement` queries to prevent SQL injection, and multithreaded data processing that keeps the UI responsive under heavy backend load.
+
+### 3. Statistical Analysis & AI Pipelines
+*Target roles: Data Analyst, Junior AI Associate, Machine Learning Intern*
+
+- **Project:** [Algorithmic Search & Predictive Analytics Pipeline](https://github.com/salshafi/ai-analytics-sandbox)
+- **Stack:** Python, Pandas, NumPy, Scikit-Learn, linear algebra and statistics
+- **What I built:** An analytics pipeline that loads tabular data, performs matrix operations, and runs machine learning workflows.
+- **Highlights:** Implemented DFS, BFS, Uniform Cost, and A* search algorithms; applied matrix transformations and Gaussian elimination; cleaned messy datasets and evaluated models with confusion matrices.
+
+---
+
+## Currently Learning
+
+Advanced machine learning and systems automation fundamentals.
