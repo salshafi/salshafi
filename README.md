@@ -36,6 +36,7 @@ Building toward ML/AI engineering | linkedin.com/in/salmanshafi44
 ### 🤖 3. Statistical Analysis & AI Sandbox Pipelines
 | **Targeting Industry Roles:** Data Analyst, Junior AI Associate, Machine Learning Intern
 *   **Project Showcase:** [Algorithmic Search & Predictive Analytics Pipeline](https://github.com)
+
 *   **Technologies Deployed:** Python Core, Pandas Dataframes, NumPy Multi-arrays, Scikit-Learn Engines, Applied Linear Algebra & Statistics Matrices.
 *   **Engineering Depth:** Built a structured analytical engine that extracts tabular dataset information, runs advanced vector matrix conversions, and manages complex machine learning data workflows.
 *   **System Highlights:** Designed functional search path scripts (DFS, BFS, Uniform Cost, and A* variants). Applied matrix transformations, Gaussian elimination methods, and data filtering tools to clean messy dataset collections, track model regressions, and display accuracy confusion matrices.
