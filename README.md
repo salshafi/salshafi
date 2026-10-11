@@ -39,9 +39,9 @@ Building toward ML/AI engineering
 *Target roles: Data Analyst, Junior AI Associate, Machine Learning Intern*
 
 - **Project:** [Algorithmic Search & Predictive Analytics Pipeline](https://github.com/salshafi/ai-analytics-sandbox)
-- **Stack:** Python, Pandas, NumPy, Scikit-Learn, linear algebra and statistics
-- **What I built:** An analytics pipeline that loads tabular data, performs matrix operations, and runs machine learning workflows.
-- **Highlights:** Implemented DFS, BFS, Uniform Cost, and A* search algorithms; applied matrix transformations and Gaussian elimination; cleaned messy datasets and evaluated models with confusion matrices.
+- **Stack:** Python, NumPy, scikit-learn
+- **What I built:** A Python sandbox with graph search algorithms and a machine learning pipeline.
+- **Highlights:** Implemented BFS, DFS, Uniform Cost Search, and A* on a weighted graph of Ontario cities. Applied NumPy matrix multiplication and determinants, and built a logistic regression pipeline evaluated with a confusion matrix.
 
 ---
 
