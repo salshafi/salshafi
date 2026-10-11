@@ -2,71 +2,52 @@
 Software Engineering Technology (AI) Student @ Centennial College
 Building toward ML/AI engineering | linkedin.com/in/salmanshafi44
 
-## 🤖 AI/ML
-*(in progress — COMP237 algorithms repo + ML microservice coming this term)*
-# AI-Powered Full-Stack Support & Engagement Engine
+### 🎯 Actively Seeking a Winter 2027 Co-op Placement (Software Engineering / AI)
+**Available for 100% Remote Roles Across Ontario & Canada**  
 
-A modern **MERN-stack** application that combines a scalable React frontend, an Express/Node backend, and an intelligent chatbot layer utilizing **WebSockets** and **Large Language Models (LLMs)**.
+🔗 **[Connect on LinkedIn](https://linkedin.com)** | ✉️ **[salman.shafi@email.com](email@email.com)**
 
-## 🚀 Key Architectural Features
-*   **Reactive UI:** Engineered with React.js using hooks (`useState`, `useEffect`) and reusable UI components.
-*   **Secure API Layer:** State-driven Node.js REST API with JWT authentication and custom route protection middleware.
-*   **Asynchronous AI Chatbot:** Full two-way real-time communication pipeline powered by WebSockets (`socket.io`).
-*   **Data Integrity:** Scalable non-relational document indexing using MongoDB and Mongoose validation schemas.
+---
 
-## 📁 System Architecture
-```text
-├── backend/
-│   ├── config/          # MongoDB & Mongoose initializations
-│   ├── controllers/     # MVC controller route handler logic
-│   ├── middleware/      # JWT authentication & 2FA filters
-│   ├── models/          # Data schema definitions
-│   └── server.js        # Node entry point & WebSocket sockets
-└── frontend/
-    ├── src/
-    │   ├── components/  # Modular presentation components
-    │   ├── hooks/       # Custom API connection modules
-    │   └── App.jsx      # React Router declarations
-```
+## 🛠️ Tech Stack & Ecosystem
 
-## 🛠️ Local Environment Deployment
+### **Languages & Frameworks**
+![C#](https://shields.io) ![Java](https://shields.io) ![Python](https://shields.io) ![JavaScript](https://shields.io) ![SQL](https://shields.io)
 
-### Prerequisites
-* Node.js (v18+)
-* MongoDB Local Instance or Atlas URI
+### **Full-Stack & Intelligent Systems Architecture**
+![React](https://shields.io) ![Node.js](https://shields.io) ![Express](https://shields.io) ![MongoDB](https://shields.io) ![Socket.io](https://shields.io)
 
-### Installation Setup
-1. Clone the project code:
-   ```bash
-   git clone https://github.com
-   cd your-repo-name
-   ```
-2. Spin up the backend API gateway:
-   ```bash
-   cd backend
-   npm install
-   npm start
-   ```
-3. Initialize the frontend development server:
-   ```bash
-   cd ../frontend
-   npm install
-   npm run dev
-   ```
+### **Systems Engineering & Version Control**
+![Linux](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io)
 
+---
 
-### 🧰 Tech Stack
+## 🚀 Core Portfolio Projects
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Unix/Linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-</p>
+### 🌐 1. Full-Stack & AI Web Applications
+> **Targeting Industry Roles:** *Full-Stack Developer, Web Application Intern, Client-Server Architect*
+
+**Project Showcase:** **[AI-Powered Support & Engagement Engine](https://github.com)**
+*   **Technologies Deployed:** React.js (Hooks, React Router), Node.js, Express.js, MongoDB, Mongoose Schemas, Socket.io, JSON Web Tokens (JWT).
+*   **Engineering Depth:** Formulated a reactive web interface that uses a persistent real-time socket layer to deliver low-latency bidirectional chat streaming, completely bypassing slow HTTP intervals.
+*   **System Highlights:** Implemented structured MVC API paths, token security authorization protocols, server state cache verification tools, and robust schema data filtering workflows.
+
+### ☕ 2. Enterprise Desktop & Logic Services
+> **Targeting Industry Roles:** *Software Developer, Systems Engineer, Java/C# Enterprise Engineer*
+
+**Project Showcase:** **[Data-Driven Desktop Transaction Engine](https://github.com)**
+*   **Technologies Deployed:** Advanced Java SE Platform, C#, Relational JDBC Connections, JavaFX UI Engine, Multi-threading & Concurrency Frameworks.
+*   **Engineering Depth:** Engineered an explicit desktop application using strict Object-Oriented Design patterns (class abstractions, type interfaces, functional inheritance, polymorphism).
+*   **System Highlights:** Developed relational database queries bound via JDBC `PreparedStatement` properties to protect against SQL injections. Built robust multithreading data manipulation algorithms using collections to maintain UI performance under heavy backend processing.
+
+### 🤖 3. Statistical Analysis & AI Sandbox Pipelines
+> **Targeting Industry Roles:** *Data Analyst, Junior AI Associate, Machine Learning Intern*
+
+**Project Showcase:** **[Algorithmic Search & Predictive Analytics Pipeline](https://github.com)**
+*   **Technologies Deployed:** Python Core, Pandas Dataframes, NumPy Multi-arrays, Scikit-Learn Engines, Applied Linear Algebra & Statistics Matrices.
+*   **Engineering Depth:** Built a structured analytical engine that extracts tabular dataset information, runs advanced vector matrix conversions, and manages complex machine learning data workflows.
+*   **System Highlights:** Designed functional search path scripts (DFS, BFS, Uniform Cost, and A* variants). Applied matrix transformations, Gaussian elimination methods, and data filtering tools to clean messy dataset collections, track model regressions, and display accuracy confusion matrices.
+
 
 ### 📫 Reach Me
 
