@@ -5,7 +5,7 @@ Building toward ML/AI engineering | linkedin.com/in/salmanshafi44
 ### 🎯 Actively Seeking a Winter 2027 Co-op Placement (Software Engineering / AI)
 **Available for 100% Remote Roles Across Ontario & Canada**  
 
-🔗 **[Connect on LinkedIn](https://linkedin.com)** | ✉️ **[salman.shafi@email.com](email@email.com)**
+🔗 **[Connect on LinkedIn](https://linkedin.com/in/salmanshafi44)** | ✉️ **[salshafi44@email.com](email@email.com)**
 
 ---
 
