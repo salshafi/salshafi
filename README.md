@@ -11,14 +11,9 @@ Building toward ML/AI engineering | linkedin.com/in/salmanshafi44
 
 ## 🛠️ Tech Stack & Ecosystem
 
-### **Languages & Frameworks**
-![C#](https://shields.io) ![Java](https://shields.io) ![Python](https://shields.io) ![JavaScript](https://shields.io) ![SQL](https://shields.io)
-
-### **Full-Stack & Intelligent Systems Architecture**
-![React](https://shields.io) ![Node.js](https://shields.io) ![Express](https://shields.io) ![MongoDB](https://shields.io) ![Socket.io](https://shields.io)
-
-### **Systems Engineering & Version Control**
-![Linux](https://shields.io) ![Git](https://shields.io) ![GitHub](https://shields.io)
+*   **Languages:** C# | Java | Python | JavaScript (ES6+) | SQL
+*   **Full-Stack & Distributed Systems:** React.js | Node.js | Express.js | MongoDB | Socket.io
+*   **Systems & Automation Infrastructure:** Linux / Unix | Git & GitHub Version Control
 
 ---
 
