@@ -1,50 +1,40 @@
 # Hi, I'm Salman Shafi 👋
 
 **Software Engineering Technology (AI) Student @ Centennial College**
-Building toward ML/AI engineering
+Building toward software engineering and ML/AI roles
 
 **Seeking a Winter 2027 Co-op Placement** (Software Engineering / AI) · Open to remote roles across Ontario and Canada
 
-[LinkedIn](https://www.linkedin.com/in/salmanshafi44)  · [Email](mailto:salshafi44@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/salmanshafi44) · [Email](mailto:salshafi44@gmail.com)
 
 ---
 
 ## Tech Stack
 
-- **Languages:** C#, Java, Python, JavaScript (ES6+), SQL
-- **Full-Stack:** React.js, Node.js, Express.js, MongoDB, Socket.io
-- **Tools & Systems:** Linux/Unix, Git, GitHub
+- **Languages:** Java, Python, C#, JavaScript, SQL
+- **Libraries and tools:** JDBC, SQLite, NumPy, pandas, scikit-learn, Git, GitHub, Eclipse, Linux
 
 ---
 
 ## Featured Projects
 
-### 1. Full-Stack & AI Web Applications
-*Target roles: Full-Stack Developer, Web Application Intern*
+### [Java Transaction Engine](https://github.com/salshafi/java-transaction-engine)
+*Target roles: Software Developer, Java Developer, Backend*
 
-- **Project:** [AI-Powered Support & Engagement Engine](REPLACE_WITH_REPO_URL)
-- **Stack:** React.js (Hooks, React Router), Node.js, Express.js, MongoDB/Mongoose, Socket.io, JWT
-- **What I built:** A real-time chat interface using persistent WebSocket connections for low-latency, bidirectional messaging instead of HTTP polling.
-- **Highlights:** MVC-structured REST API, JWT-based authentication and authorization, server-side caching, and schema-level data validation.
+Java console app that processes a batch of transactions on a pool of worker threads and saves them to SQLite.
+- Interface and implementing class, plus a custom exception for business-rule violations
+- JDBC with parameterized `PreparedStatement` queries
+- Fixed thread pool (`ExecutorService`) for parallel processing
 
-### 2. Enterprise Desktop & Logic Services
-*Target roles: Software Developer, Java/C# Developer*
-
-- **Project:** [Data-Driven Desktop Transaction Engine](REPLACE_WITH_REPO_URL)
-- **Stack:** Java SE, C#, JDBC, JavaFX, multithreading and concurrency
-- **What I built:** A desktop application designed around object-oriented principles: abstraction, interfaces, inheritance, and polymorphism.
-- **Highlights:** JDBC `PreparedStatement` queries to prevent SQL injection, and multithreaded data processing that keeps the UI responsive under heavy backend load.
-
-### 3. Statistical Analysis & AI Pipelines
+### [Algorithmic Search & Predictive Analytics Pipeline](https://github.com/salshafi/ai-analytics-sandbox)
 *Target roles: Data Analyst, Junior AI Associate, Machine Learning Intern*
 
-- **Project:** [Algorithmic Search & Predictive Analytics Pipeline](https://github.com/salshafi/ai-analytics-sandbox)
-- **Stack:** Python, NumPy, scikit-learn
-- **What I built:** A Python sandbox with graph search algorithms and a machine learning pipeline.
-- **Highlights:** Implemented BFS, DFS, Uniform Cost Search, and A* on a weighted graph of Ontario cities. Applied NumPy matrix multiplication and determinants, and built a logistic regression pipeline evaluated with a confusion matrix.
+Python project with graph search algorithms and a machine learning pipeline.
+- BFS, DFS, Uniform Cost Search and A* on a weighted graph of Ontario cities
+- pandas missing-value cleaning, NumPy matrix operations, and a logistic regression model evaluated with a confusion matrix
 
 ---
 
 ## Currently Learning
 
-Advanced machine learning and systems automation fundamentals.
+Full-stack web development (React, Node.js) and machine learning.
