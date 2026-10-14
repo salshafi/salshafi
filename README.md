@@ -5,14 +5,24 @@ Building toward software engineering and ML/AI roles
 
 **Seeking a Winter 2027 Co-op Placement (Software Engineering / AI)** · Open to remote roles across Ontario and Canada
 
-[LinkedIn](https://www.linkedin.com/in/salmanshafi44) · [Email](mailto:salshafi44@gmail.com)
+[Portfolio](https://salmanshafi-portfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/salmanshafi44) · [Email](mailto:salshafi44@gmail.com)
 
 ## Tech Stack
 
 - **Languages:** Java, Python, C#, JavaScript, SQL
-- **Libraries and tools:** FastAPI, SQLAlchemy, Pydantic, pytest, JDBC, SQLite, NumPy, pandas, scikit-learn, Git, GitHub, Eclipse, VS Code, Linux
+- **Libraries and tools:** FastAPI, SQLAlchemy, Pydantic, pytest, JDBC, SQLite, React, NumPy, scikit-learn, Git, GitHub, GitHub Actions, VS Code, Linux
 
 ## Featured Projects
+
+### [Job Application Tracker API](https://github.com/salshafi/job-tracker-api)
+
+**Target roles:** Backend Developer, Python Developer, API Developer
+
+REST API for tracking job applications, built with FastAPI, SQLAlchemy and SQLite.
+
+- Create, list, view, update and delete endpoints, with filtering by status
+- Pydantic validation (empty fields and unknown statuses return `422`) and partial updates with `PATCH`
+- Automated pytest suite that runs against a throwaway in-memory database, with GitHub Actions CI
 
 ### [Java Transaction Engine](https://github.com/salshafi/java-transaction-engine)
 
@@ -24,24 +34,19 @@ Java console app that processes a batch of transactions on a pool of worker thre
 - JDBC with parameterized `PreparedStatement` queries
 - Fixed thread pool (`ExecutorService`) for parallel processing
 
-### [Job Application Tracker API](https://github.com/salshafi/job-tracker-api)
+### [Portfolio Website](https://github.com/salshafi/react-portfolio-site) · [Live site](https://salmanshafi-portfolio.netlify.app)
 
-**Target roles:** Backend Developer, Python Developer, API Developer
+**Target roles:** Full-Stack Developer, Front-End Developer
 
-REST API for tracking job applications, built with FastAPI, SQLAlchemy and SQLite.
+Multi-page portfolio built with React, Vite and React Router, deployed on Netlify.
 
-- Create, list, view, update and delete endpoints, with filtering by status
-- Pydantic validation (empty fields and unknown statuses return `422`) and partial updates with `PATCH`
-- Automated pytest suite that runs against a throwaway in-memory database
+- Contact form handled by Netlify Forms, with email notifications
+- AI chat assistant that answers questions about my projects, using a serverless function so the API key never reaches the browser
+- Installable as a web app (PWA) on phones and desktops
 
-### [Algorithmic Search & Predictive Analytics Pipeline](https://github.com/salshafi/ai-analytics-sandbox)
+## Coursework
 
-**Target roles:** Data Analyst, Junior AI Associate, Machine Learning Intern
-
-Python project with graph search algorithms and a machine learning pipeline.
-
-- BFS, DFS, Uniform Cost Search and A* on a weighted graph of Ontario cities
-- pandas missing-value cleaning, NumPy matrix operations, and a logistic regression model evaluated with a confusion matrix
+My AI course labs (search algorithms and machine learning) and the GradeTrackerApi project (C#, ASP.NET Core) are in private repositories. Code is available on request.
 
 ## Currently Learning
 
