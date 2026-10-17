@@ -7,9 +7,10 @@ Seeking a Winter 2027 co-op (January–April 2027, 4 months) in AI/ML, data, bac
 [Portfolio](https://salmanshafi-portfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/salmanshafi44) · [Email](mailto:salshafi44@gmail.com)
 
 ## Tech Stack
-
-- **Languages:** Java, Python, C#, JavaScript, SQL
-- **Libraries and tools:** FastAPI, SQLAlchemy, Pydantic, pytest, JDBC, SQLite, React, NumPy, scikit-learn, Git, GitHub, GitHub Actions, VS Code, Linux
+- **AI / Data:** Python, scikit-learn, NumPy, SQL
+- **Backend & APIs:** FastAPI, SQLAlchemy, Pydantic, pytest, Java (JDBC), C#
+- **Cloud & DevOps:** Linux, Git, GitHub Actions · learning Docker and AWS
+- **Also full-stack:** JavaScript, React
 
 ## Featured Projects
 
