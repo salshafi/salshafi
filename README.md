@@ -2,7 +2,7 @@
 
 **Software Engineering Technology (AI) student at Centennial College, focused on AI/ML and cloud engineering.
 
-**Seeking a Winter 2027 co-op (January–April 2027, 4 months) in AI/ML, data, backend, or cloud · Open to remote roles across Ontario and Canada, or in-person in Ottawa
+**Seeking a Winter 2027 co-op (January–April 2027, 4 months) in AI/ML, data, backend, or cloud · Open to remote roles across Ontario and    Canada, or in-person in Ottawa
 
 [Portfolio](https://salmanshafi-portfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/salmanshafi44) · [Email](mailto:salshafi44@gmail.com)
 
