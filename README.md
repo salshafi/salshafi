@@ -39,7 +39,7 @@ Academic tracking system built with ASP.NET Core and Entity Framework Core.
 - Normalized three-table relational schema
 - JavaScript front end that calls the API
 
-### [Portfolio Website](YOUR_NETLIFY_URL) · [Code](https://github.com/salshafi/react-portfolio-site)
+### [Portfolio Website](https://salmanshafi-portfolio.netlify.app) · [Code](https://github.com/salshafi/react-portfolio-site)
 **Target roles:** Full-Stack Developer, Front-End Developer
 
 Multi-page portfolio built with React, Vite and React Router, deployed on Netlify.
