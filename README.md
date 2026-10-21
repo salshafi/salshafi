@@ -32,12 +32,12 @@ Java console app that processes batches of transactions on a pool of worker thre
 - JDBC with parameterized `PreparedStatement` queries
 - Fixed thread pool (`ExecutorService`) for parallel processing
 
-### [GradeTrackerApi](https://github.com/salshafi/GradeTrackerApi)
+### GradeTrackerApi
 **Target roles:** C# / .NET Developer, Backend Developer
 
-Academic tracking system built with ASP.NET Core and Entity Framework Core.
-- Normalized three-table relational schema
-- JavaScript front end that calls the API
+C# ASP.NET Core Web API for tracking grades, using Entity Framework Core with SQLite.
+- JavaScript front end that lists and adds grades
+- Code is in a private repository and available on request
 
 ### [Portfolio Website](https://salmanshafi-portfolio.netlify.app) · [Code](https://github.com/salshafi/react-portfolio-site)
 **Target roles:** Full-Stack Developer, Front-End Developer
@@ -49,4 +49,4 @@ Multi-page portfolio built with React, Vite and React Router, deployed on Netlif
 
 ## Currently Learning
 
-Full-stack web development (React, Node.js, Express, MongoDB) and Docker.
+Full-stack web development (React, Node.js, Express, MongoDB), Docker, and AI/ML fundamentals through my Intro to AI course.
