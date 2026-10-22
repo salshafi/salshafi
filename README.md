@@ -2,7 +2,7 @@
 
 Software Engineering Technology (AI) co-op student at Centennial College, building backend and full-stack software in Python, Java and C#.
 
-**Seeking a Winter 2027 co-op (January–April 2027, 4 months) · Remote or in-person in Ottawa
+Seeking a Winter 2027 co-op (January–April 2027, 4 months) · Remote or in-person in Ottawa
 
 [Portfolio](YOUR_NETLIFY_URL) · [LinkedIn](https://www.linkedin.com/in/salmanshafi44) · [Email](mailto:salshafi44@gmail.com)
 
