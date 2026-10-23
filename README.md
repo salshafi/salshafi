@@ -4,11 +4,12 @@ Software Engineering Technology (AI) co-op student at Centennial College, buildi
 
 Seeking a Winter 2027 co-op (January–April 2027, 4 months) · Remote (Canada) or in-person in Ottawa
 
-[Portfolio](YOUR_NETLIFY_URL) · [LinkedIn](https://www.linkedin.com/in/salmanshafi44) · [Email](mailto:salshafi44@gmail.com)
+[Portfolio](https://salmanshafi-portfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/salmanshafi44) · [Email](mailto:salshafi44@gmail.com)
 
 ## Tech Stack
 
 - **Languages:** Python, Java, C#, JavaScript, SQL
+- **Data & ML:** pandas, scikit-learn, matplotlib (linear regression, data cleaning and visualization)
 - **Backend & APIs:** FastAPI, SQLAlchemy, Pydantic, ASP.NET Core, Entity Framework Core, JDBC, REST, SQLite
 - **Testing & Tools:** pytest, GitHub Actions CI, Git/GitHub, Linux and Bash
 - **Front end:** React, Vite, React Router
