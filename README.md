@@ -1,9 +1,7 @@
 # Hi, I'm Salman Shafi 👋
 
-Software Engineering Technology (AI) co-op student at Centennial College, building backend and full-stack software in Python, Java and C#.
-
-Seeking a Winter 2027 co-op (January–April 2027, 4 months) · Remote (Canada) or in-person in Ottawa
-
+Software Engineering Technology (AI) co-op student at Centennial College, building backend, data and full-stack software in Python, Java and C#
+Seeking a Winter 2027 co-op in backend, data or AI (January–April 2027, 4 months) · Remote (Canada) or in-person in Ottawa
 [Portfolio](https://salmanshafi-portfolio.netlify.app) · [LinkedIn](https://www.linkedin.com/in/salmanshafi44) · [Email](mailto:salshafi44@gmail.com)
 
 ## Tech Stack
