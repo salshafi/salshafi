@@ -25,14 +25,6 @@ REST API for tracking job applications, built with FastAPI, SQLAlchemy and SQLit
 - Pydantic validation: empty fields and unknown statuses return `422`
 - Automated pytest suite against a throwaway in-memory database, run by GitHub Actions CI
 
-### [Java Transaction Engine](https://github.com/salshafi/java-transaction-engine)
-**Target roles:** Software Developer, Java Developer, Backend
-
-Java console app that processes batches of transactions on a pool of worker threads and saves them to SQLite.
-- Interface and implementing class, plus a custom exception for business-rule violations
-- JDBC with parameterized `PreparedStatement` queries
-- Fixed thread pool (`ExecutorService`) for parallel processing
-  
 ### [Weather ETL Pipeline](https://github.com/salshafi/weather-etl-pipeline)
 **Target roles:** Data Engineer, Data Analyst, Python Developer
 
@@ -49,6 +41,14 @@ ASP.NET Core Web API for tracking grades, using Entity Framework Core with SQLit
 - Three normalized tables (Courses, Assignments, Grades) linked by foreign keys, with a flat DTO so the front end sees one simple record
 - Trimmed, case-insensitive name matching, so duplicate courses are not created
 - JavaScript front end that lists and adds grades
+
+  ### [Java Transaction Engine](https://github.com/salshafi/java-transaction-engine)
+**Target roles:** Software Developer, Java Developer, Backend
+
+Java console app that processes batches of transactions on a pool of worker threads and saves them to SQLite.
+- Interface and implementing class, plus a custom exception for business-rule violations
+- JDBC with parameterized `PreparedStatement` queries
+- Fixed thread pool (`ExecutorService`) for parallel processing
 
 ### [Portfolio Website](https://salmanshafi-portfolio.netlify.app) · [Code](https://github.com/salshafi/react-portfolio-site)
 **Target roles:** Full-Stack Developer, Front-End Developer
