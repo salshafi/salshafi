@@ -32,6 +32,13 @@ Java console app that processes batches of transactions on a pool of worker thre
 - Interface and implementing class, plus a custom exception for business-rule violations
 - JDBC with parameterized `PreparedStatement` queries
 - Fixed thread pool (`ExecutorService`) for parallel processing
+  
+### [Weather ETL Pipeline](https://github.com/salshafi/weather-etl-pipeline)
+Target roles: Data Engineer, Data Analyst, Python Developer
+Python ETL pipeline that pulls hourly Ottawa temperature forecasts from the Open-Meteo API and stores them in SQLite.
+* Separate `extract`, `transform` and `load` functions, with request timeout and HTTP error handling
+* Composite primary key (city, time) with `INSERT OR REPLACE`, so re-running the pipeline never creates duplicate rows
+* Setup and run instructions in the README, with dependencies pinned in `requirements.txt`
 
 ### GradeTrackerApi
 **Target roles:** C# / .NET Developer, Backend Developer
