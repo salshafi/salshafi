@@ -39,7 +39,7 @@ Java console app that processes batches of transactions on a pool of worker thre
 Python ETL pipeline that pulls hourly Ottawa temperature forecasts from the Open-Meteo API and stores them in SQLite.
 - Separate `extract`, `transform` and `load` functions, with request timeout and HTTP error handling
 - Composite primary key (city, time) with `INSERT OR REPLACE`, so re-running the pipeline never creates duplicate rows
-- Setup and run instructions in the README, with dependencies listed in `requirements.txt``
+- Setup and run instructions in the README, with dependencies listed in `requirements.txt`
 
 ### GradeTrackerApi
 **Target roles:** C# / .NET Developer, Backend Developer
