@@ -40,7 +40,7 @@ Python ETL pipeline that pulls hourly Ottawa temperature forecasts from the Open
 - Separate `extract`, `transform` and `load` functions, with request timeout and HTTP error handling
 - Composite primary key (city, time) with `INSERT OR REPLACE`, so re-running the pipeline never creates duplicate rows
 - Setup and run instructions in the README, with dependencies listed in `requirements.txt`
-- 
+  
 ### [GradeTrackerApi](https://github.com/salshafi/GradeTrackerApi)
 
 **Target roles:** C# / .NET Developer, Backend Developer
