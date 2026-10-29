@@ -34,7 +34,6 @@ Python ETL pipeline that pulls hourly Ottawa temperature forecasts from the Open
 - Setup and run instructions in the README, with dependencies listed in `requirements.txt`
   
 ### [GradeTrackerApi](https://github.com/salshafi/GradeTrackerApi)
-
 **Target roles:** C# / .NET Developer, Backend Developer
 
 ASP.NET Core Web API for tracking grades, using Entity Framework Core with SQLite.
@@ -42,7 +41,7 @@ ASP.NET Core Web API for tracking grades, using Entity Framework Core with SQLit
 - Trimmed, case-insensitive name matching, so duplicate courses are not created
 - JavaScript front end that lists and adds grades
 
-  ### [Java Transaction Engine](https://github.com/salshafi/java-transaction-engine)
+### [Java Transaction Engine](https://github.com/salshafi/java-transaction-engine)
 **Target roles:** Software Developer, Java Developer, Backend
 
 Java console app that processes batches of transactions on a pool of worker threads and saves them to SQLite.
