@@ -40,13 +40,15 @@ Python ETL pipeline that pulls hourly Ottawa temperature forecasts from the Open
 - Separate `extract`, `transform` and `load` functions, with request timeout and HTTP error handling
 - Composite primary key (city, time) with `INSERT OR REPLACE`, so re-running the pipeline never creates duplicate rows
 - Setup and run instructions in the README, with dependencies listed in `requirements.txt`
+- 
+### [GradeTrackerApi](https://github.com/salshafi/GradeTrackerApi)
 
-### GradeTrackerApi
 **Target roles:** C# / .NET Developer, Backend Developer
 
-C# ASP.NET Core Web API for tracking grades, using Entity Framework Core with SQLite.
+ASP.NET Core Web API for tracking grades, using Entity Framework Core with SQLite.
+- Three normalized tables (Courses, Assignments, Grades) linked by foreign keys, with a flat DTO so the front end sees one simple record
+- Trimmed, case-insensitive name matching, so duplicate courses are not created
 - JavaScript front end that lists and adds grades
-- Code is in a private repository and available on request
 
 ### [Portfolio Website](https://salmanshafi-portfolio.netlify.app) · [Code](https://github.com/salshafi/react-portfolio-site)
 **Target roles:** Full-Stack Developer, Front-End Developer
