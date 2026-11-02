@@ -49,6 +49,14 @@ Java console app that processes batches of transactions on a pool of worker thre
 - JDBC with parameterized `PreparedStatement` queries
 - Fixed thread pool (`ExecutorService`) for parallel processing
 
+[Linux CLI Toolkit](https://github.com/salshafi/linux-cli-toolkit)
+Target roles: Linux / Cloud Engineer Intern, Software Developer
+Hands-on Linux command-line practice from my COMP301 course, with real terminal output from an Ubuntu VM.
+
+* XAMPP (Apache and PHP) setup, including a form that posts to a PHP script
+* grep, sed, find and awk on sample log and student data
+* A cron job scheduled with a safe crontab edit
+
 ### [Portfolio Website](https://salmanshafi-portfolio.netlify.app) · [Code](https://github.com/salshafi/react-portfolio-site)
 **Target roles:** Full-Stack Developer, Front-End Developer
 
